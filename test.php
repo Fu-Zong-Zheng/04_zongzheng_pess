@@ -1,3 +1,7 @@
+<?php
+  echo "hello world";
+
+ ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -5,6 +9,6 @@
     <title></title>
   </head>
   <body>
-    
+    HI
   </body>
 </html>
